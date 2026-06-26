@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dotin.DotNetForum.LogAgent.AgentClient/Dotin.DotNetForum.LogAgent.AgentClient.csproj" />
+    <Project Path="src/Dotin.DotNetForum.LogAgent.Contracts/Dotin.DotNetForum.LogAgent.Contracts.csproj" />
+    <Project Path="src/Dotin.DotNetForum.LogAgent.McpServer/Dotin.DotNetForum.LogAgent.McpServer.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Dotin.DotNetForum.LogAgent.AgentClient.Tests/Dotin.DotNetForum.LogAgent.AgentClient.Tests.csproj" />
+    <Project Path="tests/Dotin.DotNetForum.LogAgent.McpServer.Tests/Dotin.DotNetForum.LogAgent.McpServer.Tests.csproj" />
+  </Folder>
+</Solution>
